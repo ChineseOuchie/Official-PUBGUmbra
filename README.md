@@ -4,4 +4,4 @@ PUBGUmbra.com is a website where you can see how often you played with the same 
 
 It is currently only working for PC players. I will add console support later.
 
-(Visit PUBGUmbra here)[https://pubgumbra.com/]
+[Visit PUBGUmbra here](https://pubgumbra.com/)
